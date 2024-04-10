@@ -1,0 +1,15 @@
+mb_size: 32
+iteration_burn_in: 50
+iteration: 250
+keep_prob: 0.6
+lr_train: 1e-4
+h_dim_RNN: 100
+h_dim_FC : 100
+num_layers_RNN: 2
+num_layers_ATT: 2
+num_layers_CS : 2
+reg_W: 1e-5
+reg_W_out: 0.0
+alpha: 1.0
+beta: 0.1
+gamma: 1.0
