@@ -4,8 +4,8 @@ Repository for the paper "Dynamical Survival Analysis with Controlled Latent Sta
 ## Installation
 Clone the repository, then inside the folder, use a `virtualenv` to install the requirements
 ```shell script
-git clone https://github.com/LinusBleistein/CoxSig.git
-cd CoxSig
+git clone https://github.com/LinusBleistein/signature_survival.git
+cd signature_survival
 
 # At the moment, we support the Python 3.6 or lower version
 # If your default interpreter is Python3:
