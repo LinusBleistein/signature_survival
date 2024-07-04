@@ -22,3 +22,8 @@ pip install -e .
 ```
 The second command installs the project as a package, making the main module importable from anywhere.
 
+## Reproducing the experiments
+To reproduce the results used in the paper, simply run 
+```shell script
+python ./experiment/experiment.py
+```
